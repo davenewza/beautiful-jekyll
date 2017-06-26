@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: My name is Dave New and I live in Cape Town, South Africa.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am **Co-founder** and **Software Architect** of [WhereIsMyTransport](https://whereismytransport.com), a technology company looking to solve problems of mobility in emerging cities. Our goal is to create a platform which changes public transport systems for the better.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I enjoy thinking about **system design** at all levels in the software stack. I also believe that **people**, **process** and the **domain** are at the heart of developing great software.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I obtained my **Bachelor of Commerce (Honours)** in Information Systems from the University of Cape Town and my **Bachelor of Science** in Computer Science from the Univerity of South Africa.
