@@ -23,7 +23,7 @@ description: Code ramblings by Dave New
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "home"
+  Blog: "index"
   About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
