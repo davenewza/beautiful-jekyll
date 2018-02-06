@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: Monitoring vital metrics in Azure
 tags: [azure]
 ---
