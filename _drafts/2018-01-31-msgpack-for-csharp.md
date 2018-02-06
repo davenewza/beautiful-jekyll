@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: MessagePack for C#
 tags: [serialization]
 ---
