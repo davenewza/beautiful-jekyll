@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Monitoring vital metrics in Azure
 tags: [azure]
 ---
@@ -10,6 +10,6 @@ An approach that I have found very effective in identifying potential issues on 
 
 The snippet below demonstates how I organise these metrics - the metric/counter 'type' over the x-axis and the measurement period on the y-axis.
 
-![Azure Vital Metrics Dashboard](2018-02-azure-vital-metrics-dashboard\azure-vital-metrics-dashboard.png)
+![Azure Vital Metrics Dashboard](2018-02-01-azure-vital-metrics-dashboard/azure-vital-metrics-dashboard.png)
 
  It's nice being able to run your eye vertically down the screen to compare results across these metrics.
