@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: Concepts in Domain-driven Design
 tags: [domain-driven-design]
 ---
